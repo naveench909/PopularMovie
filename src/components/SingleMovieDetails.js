@@ -63,7 +63,7 @@ const SingleMovieDetials = () =>{
                                 
                             </div>
                         </div>
-                        <Link className=" section-heading backhome-btn" to="/PopularMovie">BACK HOME</Link> 
+                        <Link className=" section-heading backhome-btn" to="/PopularMovie/">BACK HOME</Link> 
                     </section>
                 )
             })}
