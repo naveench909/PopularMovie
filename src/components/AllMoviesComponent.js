@@ -38,6 +38,7 @@ const AllMovie = (props) => {
     
     return (
         <div className="allmovie">
+            {console.log(allFavMov)}
             <div className="all-movie-body">
                 <div className="test">
                     <img className="movie-img" src={`${baseUrl}${props.movie.poster_path}`} alt="movie-poster" />
