@@ -1,6 +1,6 @@
 {
   "name": "latest-movies-db",
-  "homepage": "https://naveench909.github.io/",
+  "homepage": "https://naveench909.github.io/PopularMovie",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
